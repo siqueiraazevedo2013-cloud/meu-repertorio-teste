@@ -1,2 +1,1 @@
-Plaintext
-mkdocs-material
+mkdocs.yml
