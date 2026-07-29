@@ -1,7 +1,9 @@
-YAML
-site_name: Documentação Prospera Brasil
+site_name: Documentação do Meu Sistema
+site_description: Tutorial passo a passo
+
 theme:
   name: material
   language: pt-BR
+
 nav:
   - Início: index.md
