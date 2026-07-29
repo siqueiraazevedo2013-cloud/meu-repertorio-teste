@@ -1,0 +1,7 @@
+YAML
+site_name: Documentação Prospera Brasil
+theme:
+  name: material
+  language: pt-BR
+nav:
+  - Início: index.md
